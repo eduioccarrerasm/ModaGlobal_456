@@ -1,0 +1,19 @@
+
+#fieldgroup {
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+}
+#fieldgroup label {
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+	padding-right: 15px;
+}
+#fieldgroup input, #fieldgroup textarea {
+	width: 250px;
+}
+#fieldgroup div {
+	display: flex;
+}
+
