@@ -30,4 +30,7 @@
 footer {
 	margin-top: 20px;
 	text-align: center;
+	letter-spacing: 15px;
+	word-spacing: 10px;
+	font-size: 18px;
 }
