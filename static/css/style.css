@@ -1,0 +1,41 @@
+
+#fieldgroup {
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+	font-size: 18px;
+}
+#fieldgroup label {
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+	padding-right: 15px;
+}
+#fieldgroup input, #fieldgroup textarea {
+	width: 250px;
+}
+#fieldgroup div {
+	display: flex;
+}
+
+#fieldgroup button {
+	padding: 5px 10px;
+	color: #ff0000;
+	background-color: #dfdfdf;
+	border: 0px;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+footer {
+	margin-top: 20px;
+	text-align: center;
+	letter-spacing: 15px;
+	word-spacing: 10px;
+	font-size: 18px;
+}
+
+body {
+	background-color: #bbbbff;
+}
+
